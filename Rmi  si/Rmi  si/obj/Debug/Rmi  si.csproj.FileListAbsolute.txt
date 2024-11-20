@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\Rmi  si\Rmi  si\bin\Debug\Rmi  si.exe.config
+C:\Users\cesar\source\repos\Rmi  si\Rmi  si\bin\Debug\Rmi  si.exe
+C:\Users\cesar\source\repos\Rmi  si\Rmi  si\bin\Debug\Rmi  si.pdb
+C:\Users\cesar\source\repos\Rmi  si\Rmi  si\obj\Debug\Rmi  si.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Rmi  si\Rmi  si\obj\Debug\Rmi  si.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Rmi  si\Rmi  si\obj\Debug\Rmi  si.exe
+C:\Users\cesar\source\repos\Rmi  si\Rmi  si\obj\Debug\Rmi  si.pdb
